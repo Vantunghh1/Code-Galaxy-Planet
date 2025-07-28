@@ -614,7 +614,7 @@ const ringTexts = [
   'Quyên Quyên',
   "You are so beautiful",
   "You look like a princess",
-  "💟💟💟💟💟💟",
+  "✨🌟💫✨🌟💫✨🌟💫",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
